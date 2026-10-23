@@ -11,3 +11,4 @@
         </dependency>
     </dependencies>
 </project>
+<!-- Vulnerable dependency added on purpose to test Dependabot alerts -->
